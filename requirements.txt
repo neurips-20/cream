@@ -1,6 +1,6 @@
 yacs
 numpy==1.17
-opencv-python==4.0.1.24
+opencv-python==4.2.0.32
 torchvision==0.2.1
 thop
 git+https://github.com/sovrasov/flops-counter.pytorch.git
